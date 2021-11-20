@@ -1,0 +1,9 @@
+C:\Users\shu\Desktop\A107222023_CS_MYSQL\A107222023_University\bin\Debug\A107222023_University.exe.config
+C:\Users\shu\Desktop\A107222023_CS_MYSQL\A107222023_University\bin\Debug\A107222023_University.exe
+C:\Users\shu\Desktop\A107222023_CS_MYSQL\A107222023_University\bin\Debug\A107222023_University.pdb
+C:\Users\shu\Desktop\A107222023_CS_MYSQL\A107222023_University\obj\Debug\A107222023_University.DB_DataGridView.resources
+C:\Users\shu\Desktop\A107222023_CS_MYSQL\A107222023_University\obj\Debug\A107222023_University.Properties.Resources.resources
+C:\Users\shu\Desktop\A107222023_CS_MYSQL\A107222023_University\obj\Debug\A107222023_University.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\A107222023_CS_MYSQL\A107222023_University\obj\Debug\A107222023_University.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\A107222023_CS_MYSQL\A107222023_University\obj\Debug\A107222023_University.exe
+C:\Users\shu\Desktop\A107222023_CS_MYSQL\A107222023_University\obj\Debug\A107222023_University.pdb
